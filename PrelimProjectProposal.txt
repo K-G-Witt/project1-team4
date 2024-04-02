@@ -32,7 +32,7 @@ Mental Health in the Tech Workplace. Resouces available from: https://osmhhelp.o
 
 
 PROPOSED ANALYSES:
-1. Bar charts by country.
+1. Bar charts by country, or possibly mapping-based API for visualisation.
 2. Pie chart by employer wellness programs.
 3. Pie chart by remote vs. office-based workers.
 4. Pie chart by family history of mental illness.
