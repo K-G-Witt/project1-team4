@@ -23,6 +23,7 @@ RESEARCH QUESION(S):
 3. Does this vary between remote vs. office-based workers?
 4. Does this vary between those with and without a family history of mental illness?
 5. To what extent does workplace culture explain the likelihood that a person will disclose a mental health condition?
+6. Possibly, also comparison pre-COVID-19 versus after COVID-19 (subject to statistical power).
 
 
 PROPOSED API(S) & DATASETS:
