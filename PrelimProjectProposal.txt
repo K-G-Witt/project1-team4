@@ -37,6 +37,8 @@ PROPOSED ANALYSES:
 3. Pie chart by remote vs. office-based workers.
 4. Pie chart by family history of mental illness.
 5. Regression for workplace culture on likelihood of disclosure.
+6. Interrupted time series analysis for impact of COVID-19.
+7. Multivariate regression of all factors together.
 
 
 ROUGH BREAKDOWN OF TASKS BY TEAM MEMBER:
