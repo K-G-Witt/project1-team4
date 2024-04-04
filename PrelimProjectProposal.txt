@@ -1,0 +1,47 @@
+PROJECT TITLE:
+Factors that explain disclosure of mental health conditions in tech industry workers.
+
+
+TEAM MEMBERS:
+Erin Nicol
+James Radford
+Katrina Witt
+Joyce Xu
+
+
+PROJECT TRACK:
+Healthcare industry - mental health in tech industry workers.
+
+
+PROJECT OUTLINE:
+Tech workers experience precarious employment, unpredictable working hours, sedentary, and often socially isolating working conditions. These are likely to have significant impacts on workers' mental and physical health.
+Tech workers' mental health is also likely to be impacted by a family history of mental illness. Workplace culture is also likely to impact on the likelihood that workers will disclose mental health conditions.
+
+
+RESEARCH QUESION(S):
+1. What is the self-reported prevalence of mental health conditions amongst tech industry workers in different countries?
+2. What is the impact of employer wellness programs?
+3. Does this vary between remote vs. office-based workers?
+4. Does this vary between those with and without a family history of mental illness?
+5. To what extent does workplace culture explain the likelihood that a person will disclose a mental health condition?
+6. Possibly, also comparison pre-COVID-19 versus after COVID-19 (subject to statistical power).
+
+
+PROPOSED API(S) & DATASETS:
+Mental Health in the Tech Workplace. Resouces available from: https://osmhhelp.org/research.html (accessed 2 April 2024).
+
+
+PROPOSED ANALYSES:
+1. Bar charts by country, or possibly mapping-based API for visualisation.
+2. Pie chart by employer wellness programs.
+3. Pie chart by remote vs. office-based workers.
+4. Pie chart by family history of mental illness.
+5. Pie chart by workplace culture.
+6. Multivariate regression of all factors together.
+7. Line chart over a time series analysis to examine impact of COVID-19.
+
+
+ROUGH BREAKDOWN OF TASKS BY TEAM MEMBER:
+Exploratory data analysis: Katrina Witt, James Radford.
+Data visualisation: Joyce Xu, Erin Nicol.
+Report and presentation preparation: All.
