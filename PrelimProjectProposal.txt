@@ -34,36 +34,50 @@ Mental Health in the Tech Workplace. Resouces available from: https://osmhhelp.o
 PROPOSED ANALYSES:
 1. Bar charts by country, or possibly mapping-based API for visualisation.
   2014 data
-  'treatment'= yes, new dataframe created.
+  'treatment'= yes, new dataframe created. 'treatment' is defined as have you ever sought treatment for a mental health condition, its the only distinguishing column out of the dataset to gauge mental health. 
 
   2020 data
-  
+  There are several options to distinguish mental health.
+Column AW: 'Do you *currently* have a mental health disorder?', CL: 'Have you had a mental health disorder in the past?' and CM: 'Have you ever sought treatment for a mental health disorder from a mental health professional?' Need to decide one, JR believes to keep it consistent with the distinguisher from 2014, which would mean column CM. Happy to hear thoughts on this. 
+  Country column is DK: 'What country do you *live* in?'
 
-2. Pie chart by employer wellness programs.
+2. Pie chart by employer wellness programs. *might need 2 charts here, one for % of workers with mental health issues & wellness programs and % of workers with mental health issues without wellness programs
   2014 data
+  Use dataframe filtered by 'treatment' == 'Yes'
   'wellness_program', break down into value_counts for "Yes", "No" and "Don't Know"
 
   2020 data
+  Same method as above in 2014 data but answers are different.
+  Column AI: 'Did your previous employers ever formally discuss mental health (as part of a wellness campaign or other official communication)?'
+  Answers are 'Some did', 'Yes they all did' and 'None did' which is different from the 2014 dataset. This can be one limitation of the study and data used. 
+  Break into new data frame using something like wellness_count_2020 = mental_health_issues_data_2020['Did your previous employers ever formally discuss mental health (as part of a wellness campaign or other official communication)?'].value_counts() or something to that effect.
 
 3. Pie charts by remote vs. office-based workers. *might need 2 charts here, one for % of remote workers overall vs % of remote workers with mental health issues. 
   2014 data
   'remote_work' == 'yes' then filter by remote workers that report mental health issues, ie 'treatment' == 'Yes'
 
   2020 data 
+  This one could also be up for debate as it is not clearly defined as a remote worker in this dataset. Initial thoughts were use columns DK:'What country do you *live* in?'  and DO:'What country do you *work* in?'  and if the values are different then create a new column and class this as 'remote' but in all the data for 2020, the values equal each other. Perhaps a comparison cant be made pre vs post covid on this one.
 
 4. Pie chart by family history of mental illness.
   2014 data
  filter by 'family_history' == 'Yes' vs 'treatment' column value_counts
 
   2020 data
+  Column CN: 'Do you have a family history of mental illness?'
+  Could use the same concept as in 2014 data and create dataframe of people with mental health issues, then value_counts of whether they have a family history or not.
 
-5. Pie chart by workplace culture.
+5. Pie chart by workplace culture. * may need multiple pie charts, for eg good workplace culture, percentage of those with mental health issues. Bad workplace culture, percentage of those with or without mental health issues.
   2014 data
-  'seek_help' or 'mental_health_consequence'
+  'seek_help' = 'Does your employer provide resources to learn more about mental health issues and how to seek help?' or 'mental_health_consequence' = 'Do you think that discussing a mental health issue with your employer would have negative consequences?' need to pick the best one. From here
 
   2020 data
+  best option JR believes is column M: 'Would you feel comfortable discussing a mental health issue with your direct supervisor(s)?' as this is most aligned to that of the 2014 data. 
+
 6. Multivariate regression of all factors together.
+  Need to work through this as a group as I am not really familair with this concept.
 7. Line chart over a time series analysis to examine impact of COVID-19.
+  Also may need to regroup and bash this one out together. Maybe a percentage of mental health issues per year?
 
 
 ROUGH BREAKDOWN OF TASKS BY TEAM MEMBER:
