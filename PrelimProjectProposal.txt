@@ -33,10 +33,35 @@ Mental Health in the Tech Workplace. Resouces available from: https://osmhhelp.o
 
 PROPOSED ANALYSES:
 1. Bar charts by country, or possibly mapping-based API for visualisation.
+  2014 data
+  'treatment'= yes, new dataframe created.
+
+  2020 data
+  
+
 2. Pie chart by employer wellness programs.
-3. Pie chart by remote vs. office-based workers.
+  2014 data
+  'wellness_program', break down into value_counts for "Yes", "No" and "Don't Know"
+
+  2020 data
+
+3. Pie charts by remote vs. office-based workers. *might need 2 charts here, one for % of remote workers overall vs % of remote workers with mental health issues. 
+  2014 data
+  'remote_work' == 'yes' then filter by remote workers that report mental health issues, ie 'treatment' == 'Yes'
+
+  2020 data 
+
 4. Pie chart by family history of mental illness.
+  2014 data
+ filter by 'family_history' == 'Yes' vs 'treatment' column value_counts
+
+  2020 data
+
 5. Pie chart by workplace culture.
+  2014 data
+  'seek_help' or 'mental_health_consequence'
+
+  2020 data
 6. Multivariate regression of all factors together.
 7. Line chart over a time series analysis to examine impact of COVID-19.
 
