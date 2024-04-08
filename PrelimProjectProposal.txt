@@ -38,7 +38,7 @@ PROPOSED ANALYSES:
 
   2020 data
   There are several options to distinguish mental health.
-Column AW: 'Do you *currently* have a mental health disorder?', CL: 'Have you had a mental health disorder in the past?' and CM: 'Have you ever sought treatment for a mental health disorder from a mental health professional?' Need to decide one, JR believes to keep it consistent with the distinguisher from 2014, which would mean column CM. Happy to hear thoughts on this. 
+Column AW: 'Do you *currently* have a mental health disorder?', CM: 'Have you ever sought treatment for a mental health disorder from a mental health professional?'
   Country column is DK: 'What country do you *live* in?'
 
 2. Pie chart by employer wellness programs. *might need 2 charts here, one for % of workers with mental health issues & wellness programs and % of workers with mental health issues without wellness programs
@@ -52,9 +52,9 @@ Column AW: 'Do you *currently* have a mental health disorder?', CL: 'Have you ha
   Answers are 'Some did', 'Yes they all did' and 'None did' which is different from the 2014 dataset. This can be one limitation of the study and data used. 
   Break into new data frame using something like wellness_count_2020 = mental_health_issues_data_2020['Did your previous employers ever formally discuss mental health (as part of a wellness campaign or other official communication)?'].value_counts() or something to that effect.
 
-3. Pie charts by remote vs. office-based workers. *might need 2 charts here, one for % of remote workers overall vs % of remote workers with mental health issues. 
+*********3. Pie charts by remote vs. office-based workers. *might need 2 charts here, one for % of remote workers overall vs % of remote workers with mental health issues. 
   2014 data
-  'remote_work' == 'yes' then filter by remote workers that report mental health issues, ie 'treatment' == 'Yes'
+  'remote_work' == 'yes' then filter by remote workers that report mental health issues, ie 'treatment' == 'Yes'********
 
   2020 data 
   This one could also be up for debate as it is not clearly defined as a remote worker in this dataset. Initial thoughts were use columns DK:'What country do you *live* in?'  and DO:'What country do you *work* in?'  and if the values are different then create a new column and class this as 'remote' but in all the data for 2020, the values equal each other. Perhaps a comparison cant be made pre vs post covid on this one.
