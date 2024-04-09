@@ -11,4 +11,4 @@ Executing the script in the **rcl_file** Jupyter Lab Notbook will generate all t
 ## Usage Instructions:
 
 ## Credits:
-This code was compiled and written by James Radford, Katrina Witt, Erin Nicol, and Joyce Xu for project 1 in the 2024 Data Analytics Boot Camp hosted by Monash University. Additional credits are declared below:
+This code was compiled and written by James Radford, Katrina Witt, Erin Nicol, and Joyce Xu for Project 1 in the 2024 Data Analytics Boot Camp hosted by Monash University. Additional credits are declared below:
