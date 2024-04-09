@@ -27,7 +27,7 @@ The subfolder, titled **Resources**, contains the following four raw datafiles, 
 ### Script execution:
 Executing the script in the **rcl_file** Jupyter Lab Notbook will generate all the analyses and exhibits used in this project.
 
-## Visualisations:
+### Visualisations:
 All visualisations used in this project are saved to a subfolder titled **Exhibits**.
 
 
