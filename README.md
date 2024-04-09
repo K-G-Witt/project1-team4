@@ -17,7 +17,7 @@ The research questions are:
 
 
 ## Installation and Run Instructions:
-### Raw data .csv files:
+### Raw data files:
 The subfolder, titled **Resources**, contains the following four raw datafiles saved in .csv format:
 1. OSMI 2014 Mental Health in Tech Survey Results
 2. OSMI 2020 Mental Health in Tech Survey Results
