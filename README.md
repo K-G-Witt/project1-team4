@@ -3,6 +3,8 @@ Tech workers experience precarious employment, unpredictable working hours, sede
 
 The aims of this project are therefore to explore the factors that impact on tech workers mental health over two observation periods, before the COVID-19 pandemic (2014) compared with during the COVID-19 pandemic (2020-2022).
 
+
+
 ## Project Description:
 The research questions are:
 1. What is the self-reported prevalence of mental health conditions amongst tech industry workers in different countries?
@@ -15,12 +17,29 @@ The research questions are:
 
 
 ## Installation and Run Instructions:
+### Raw data .csv files:
+The subfolder, titled **Resources**, contains the following four raw datafiles, saved in .csv format:
+1. OSMI 2014 Mental Health in Tech Survey Results.csv
+2. OSMI 2020 Mental Health in Tech Survey Results.csv
+3. OSMI 2021 Mental Health in Tech Survey Results.csv
+4. OSMI 2022 Mental Health in Tech Survey Results.csv
+
+### Script execution:
 Executing the script in the **rcl_file** Jupyter Lab Notbook will generate all the analyses and exhibits used in this project.
+
+## Visualisations:
+All visualisations used in this project are saved to a subfolder titled **Exhibits**.
+
+
 
 ## Usage Instructions:
 
+
+
 ## Datasets:
 Mental Health in the Tech Workplace. Resouces available from: https://osmhhelp.org/research.html (accessed 2 April 2024).
+
+
 
 ## Credits:
 This code was compiled and written by James Radford, Katrina Witt, Erin Nicol, and Joyce Xu for Project 1 in the 2024 Data Analytics Boot Camp hosted by Monash University. Additional credits are declared below:
