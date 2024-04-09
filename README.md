@@ -28,7 +28,7 @@ The subfolder, titled **Resources**, contains the following four raw datafiles s
 Executing the script in the **rcl_file** will generate all the analyses and exhibits used in this project.
 
 ### Visualisations:
-All visualisations used in this project are saved to a subfolder titled **Exhibits**.
+All visualisation exhibits used in this project are saved to a subfolder titled **Exhibits**.
 
 
 
