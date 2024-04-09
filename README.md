@@ -13,7 +13,7 @@ The research questions are:
 6. Possibly, also comparison pre-COVID-19 versus after COVID-19 (subject to statistical power).
 
 
-PROPOSED API(S) & DATASETS:
+### Datasets:
 Mental Health in the Tech Workplace. Resouces available from: https://osmhhelp.org/research.html (accessed 2 April 2024).
 
 ## Installation and Run Instructions:
