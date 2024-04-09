@@ -13,13 +13,15 @@ The research questions are:
 6. Possibly, also comparison pre-COVID-19 versus after COVID-19 (subject to statistical power).
 
 
-### Datasets:
-Mental Health in the Tech Workplace. Resouces available from: https://osmhhelp.org/research.html (accessed 2 April 2024).
 
 ## Installation and Run Instructions:
 Executing the script in the **rcl_file** Jupyter Lab Notbook will generate all the analyses and exhibits used in this project.
 
 ## Usage Instructions:
 
+## Datasets:
+Mental Health in the Tech Workplace. Resouces available from: https://osmhhelp.org/research.html (accessed 2 April 2024).
+
 ## Credits:
 This code was compiled and written by James Radford, Katrina Witt, Erin Nicol, and Joyce Xu for Project 1 in the 2024 Data Analytics Boot Camp hosted by Monash University. Additional credits are declared below:
+
