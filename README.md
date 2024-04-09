@@ -24,11 +24,11 @@ The subfolder, titled **Resources**, contains the following four raw datafiles s
 3. OSMI 2021 Mental Health in Tech Survey Results
 4. OSMI 2022 Mental Health in Tech Survey Results
 
-### Script execution:
-Executing the script in the **rcl_file** will generate all the analyses and exhibits used in this project.
+### Analysis:
+Executing the script in the **rcl_file** will generate all the analyses used in this project.
 
 ### Visualisations:
-All visualisation exhibits used in this project are saved to a subfolder titled **Exhibits**.
+Executing the script in the **rcl_file** will generate all the visualisations used in this project. All visualisation exhibits used in this project are saved to a subfolder titled **Exhibits**.
 
 
 
