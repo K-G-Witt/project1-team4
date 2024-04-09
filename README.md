@@ -7,12 +7,13 @@ The aims of this project are therefore to explore the factors that impact on tec
 
 ## Project Description:
 The research questions are:
-1. What is the self-reported prevalence of mental health conditions amongst tech industry workers in different countries?
-2. What is the impact of employer wellness programs?
-3. Does this vary between remote vs. office-based workers?
-4. Does this vary between those with and without a family history of mental illness?
-5. To what extent does workplace culture explain the likelihood that a person will disclose a mental health condition?
-6. Possibly, also comparison pre-COVID-19 versus after COVID-19 (subject to statistical power).
+1. What is the self-reported prevalence of mental health conditions amongst tech industry workers.
+2. How does this compare within different countries?
+3. What is the proportion of tech employers that offer wellness programs?
+4. Does the prevalence of self reported mental health conditons vary between remote vs. office-based workers?
+5. Does the prevalence of self reported mental health conditons vary between a given family history of mental illness?
+6. How likely are those with self reported mental health conditions likely to disclose to supervisors verses co-workers?
+7. Has the impact of covid changed any of the above conditions.
 
 
 
