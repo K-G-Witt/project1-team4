@@ -19,10 +19,10 @@ The research questions are:
 ## Installation and Run Instructions:
 ### Raw data .csv files:
 The subfolder, titled **Resources**, contains the following four raw datafiles, saved in .csv format:
-1. OSMI 2014 Mental Health in Tech Survey Results.csv
-2. OSMI 2020 Mental Health in Tech Survey Results.csv
-3. OSMI 2021 Mental Health in Tech Survey Results.csv
-4. OSMI 2022 Mental Health in Tech Survey Results.csv
+1. OSMI 2014 Mental Health in Tech Survey Results
+2. OSMI 2020 Mental Health in Tech Survey Results
+3. OSMI 2021 Mental Health in Tech Survey Results
+4. OSMI 2022 Mental Health in Tech Survey Results
 
 ### Script execution:
 Executing the script in the **rcl_file** Jupyter Lab Notbook will generate all the analyses and exhibits used in this project.
