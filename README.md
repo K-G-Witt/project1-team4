@@ -47,6 +47,6 @@ This code was compiled and written by James Radford, Katrina Witt, Joyce Xu, and
 
 Additional credits are declared below:
 
-### Pandas series mapping function to harmonise response options between surveys:
+### Using pandas series.map() function to harmonise response options between surveys:
 https://pandas.pydata.org/docs/reference/api/pandas.Series.map.html#pandas.Series.map (accessed 10 April 2024).
 
