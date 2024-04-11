@@ -18,19 +18,18 @@ The research questions are:
 
 
 ## Installation and Run Instructions:
-### Raw data files:
-The subfolder, titled **Resources**, contains the following four raw datafiles saved in .csv format:
+### Data files:
+The subfolder, titled **Resources**, contains the following four raw datafiles, saved in .csv format, needed for this project:
 1. OSMI 2014 Mental Health in Tech Survey Results
 2. OSMI 2020 Mental Health in Tech Survey Results
 3. OSMI 2021 Mental Health in Tech Survey Results
 4. OSMI 2022 Mental Health in Tech Survey Results
 
 ### Analysis:
-Executing the script in the **rcl_file** will generate all the analyses used in this project.
+The script, titled **rcl_file**, will generate all the analyses used in this project.
 
 ### Visualisations:
-Executing the script in the **rcl_file** will generate all the visualisations used in this project. 
-All visualisation exhibits used in this project are saved to a subfolder titled **Exhibits**.
+The script, titled **rcl_file**, will generate all the visualisations used in this project. All visualisation exhibits used in this project are also saved, in .png format, to a subfolder titled **Exhibits**.
 
 
 
