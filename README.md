@@ -38,7 +38,7 @@ The script, titled **rcl_file**, will generate all the visualisations used in th
 
 
 ## Datasets:
-Mental Health in the Tech Workplace. Resouces available from: https://osmhhelp.org/research.html (accessed 2 April 2024).
+Mental Health in the Tech Workplace. Resouces, including the raw .csv data files used in this project, are available from: https://osmhhelp.org/research.html (accessed 2 April 2024).
 
 
 
