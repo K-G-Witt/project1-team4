@@ -50,6 +50,9 @@ Additional credits are declared below:
 ### Resetting index to column:
 https://pandas.pydata.org/docs/reference/api/pandas.Series.reset_index.html#pandas.Series.reset_index (accessed 10 April 2024).
 
+### Scipy chi2_contingency test for independence:
+https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.chi2_contingency.html (accessed 11 April 2024).
+
 ### Using pandas series.map() function to harmonise response options between surveys:
 https://pandas.pydata.org/docs/reference/api/pandas.Series.map.html#pandas.Series.map (accessed 10 April 2024).
 
