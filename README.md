@@ -47,6 +47,10 @@ This code was compiled and written by James Radford, Katrina Witt, Joyce Xu, and
 
 Additional credits are declared below:
 
+### Resetting index to column:
+https://pandas.pydata.org/docs/reference/api/pandas.Series.reset_index.html#pandas.Series.reset_index (accessed 10 April 2024).
+
 ### Using pandas series.map() function to harmonise response options between surveys:
 https://pandas.pydata.org/docs/reference/api/pandas.Series.map.html#pandas.Series.map (accessed 10 April 2024).
+
 
