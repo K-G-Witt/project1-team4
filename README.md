@@ -43,5 +43,10 @@ Mental Health in the Tech Workplace. Resouces available from: https://osmhhelp.o
 
 
 ## Credits:
-This code was compiled and written by James Radford, Katrina Witt, Joyce Xu, and Erin Nicol for Project 1 in the 2024 Data Analytics Boot Camp hosted by Monash University. Additional credits are declared below:
+This code was compiled and written by James Radford, Katrina Witt, Joyce Xu, and Erin Nicol for Project 1 in the 2024 Data Analytics Boot Camp hosted by Monash University. 
+
+Additional credits are declared below:
+
+### Pandas series mapping function to harmonise response options between surveys:
+https://pandas.pydata.org/docs/reference/api/pandas.Series.map.html#pandas.Series.map (accessed 10 April 2024).
 
