@@ -15,7 +15,7 @@ The aims of this project are therefore to explore the factors that impact on tec
 3. What is the proportion of tech employers that offer wellness programs?
 4. Does the prevalence of self reported mental health conditons vary between remote vs. office-based workers?
 5. Does the prevalence of self reported mental health conditons vary between a given family history of mental illness?
-6. How likely are those with self reported mental health conditions likely to disclose to supervisors verses co-workers?
+6. How likely are those with self reported mental health conditions likely to disclose to supervisors?
 7. How likely are those with self reported mental health conditions likely to disclose to co-workers?
 8. How did covid impact the above questions?
 
