@@ -16,7 +16,7 @@ The aims of this project are therefore to explore the factors that impact on tec
 4. Does the prevalence of self reported mental health conditons vary between remote vs. office-based workers?
 5. Does the prevalence of self reported mental health conditons vary between a given family history of mental illness?
 6. How likely are those with self reported mental health conditions likely to disclose to supervisors verses co-workers?
-7. Has the impact of covid changed any of the above conditions.
+7. How likely are those with self reported mental health conditions likely to disclose to co-workers?
 
 # Methods
 1. Initial import from .csv file into Pandas Data frame for each individual year.
