@@ -48,14 +48,14 @@ The aims of this project are therefore to explore the factors that impact on tec
 
 
 
-## Usage Instructions
-### Analysis:
+# Usage Instructions
+## Analysis:
 The script, titled **rcl_file**, will generate all the analyses used in this project.
 
-### Visualisations:
+## Visualisations:
 The script, titled **rcl_file**, will generate all the visualisations used in this project. All visualisation exhibits used in this project are also saved, in .png format, to a subfolder titled **Exhibits**.
 
-### Datasets:
+## Datasets:
 Mental Health in the Tech Workplace. Resources, including the raw .csv data files used in this project, are available from: https://osmhhelp.org/research.html (accessed 2 April 2024).
 
 ## Installation and Run Instructions
